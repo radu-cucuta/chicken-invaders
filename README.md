@@ -3,8 +3,8 @@
 This game is my first project developed for college purposes. Enjoy it!:smile:
 
 ![Main screen](/screenshots/Chicken_Invaders_main.jpg)
-![Splash start](/screenshots/Chicken_Invaders1.jpg)
-![Hard mode](/screenshots/Chicken_Invaders2.jpg)
+![Splash start](/screenshots/Chicken_Invaders1.png)
+![Hard mode](/screenshots/Chicken_Invaders2.png)
 
 ## Instructions
 - :mouse: Mouse Movement
